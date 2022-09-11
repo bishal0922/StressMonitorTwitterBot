@@ -35,7 +35,7 @@ start_id =1
 
 while True:
     
-    tweets = client.get_users_tweets(id=bish_id)
+    tweets = client.get_users_tweets(id=doja_id)
     tweet = tweets.data[0]
 
 
