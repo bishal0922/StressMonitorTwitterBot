@@ -8,11 +8,11 @@ import time
 from stress_detection import isthisstress
 
 #API authentication for @isdojastressed bot
-api_key= "bdVYBNPuGcOlactp7ANxI2RIT"
-api_secret= ***
-bearer_token= "AAAAAAAAAAAAAAAAAAAAACTEgwEAAAAAMit4IJP8ZMSEpAyKJWt%2B72w5M7A%3DSstZiWa8YIm2BXP0xZkNxiGRPmb1JEcb9YAeY3HFbkPhw818Eg"
-access_token="1568652190390034441-z4bsmwBuvQNw7OfnA4hNKpWyejp3Yd"
-access_token_secret= "XtboFImw1HDGmgP8elPkN4rILpwDHIET2LjecxXDb8Y2s"
+api_key= ""
+api_secret= ""
+bearer_token= ""
+access_token=""
+access_token_secret= ""
 
 client = tweepy.Client(bearer_token, api_key, api_secret, access_token, access_token_secret)
 
